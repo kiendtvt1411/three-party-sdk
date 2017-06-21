@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">ThreePartySDK</string>
+
+    <!-- facebook id app-->
+    <string name="facebook_app_id">898557220294964</string>
+    <!-- google server client id-->
+    <string name="server_client_id">689656237253-uin6u7bb8fvdch6iabs3vr2btkmfa7ci.apps.googleusercontent.com</string>
+    <!-- twitter key-->
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">dyMcy1CELhAc4jgOgcseiz0f0</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">gVH6xNKLZGzlbXENsrEH9UhNpC7ipTBy9BNuGiXGwvEC1LEuoU</string>
 </resources>
